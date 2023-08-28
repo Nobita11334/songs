@@ -1,0 +1,25 @@
+
+ 
+#song h2{
+  font-family: 'Oswald', sans-serif;
+  color: #51414F;
+  margin: 25px;
+ margin-bottom: 45px ;
+}
+
+ .card-header{
+color: #CBC3E3;
+background-color: #51414F;
+
+ }  
+ .card-body{
+  color:#CBC3E3;
+  background-color: #51414F;
+  
+   }  
+
+   .card-footer{
+    color: #51414F;
+    background-color: #51414F;
+    
+     }  
